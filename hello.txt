@@ -8,3 +8,4 @@ hello git!hello
 hello git!hello
 hello git!hello
 hello git!hello master hello
+hello git!hello hot_fix hello
